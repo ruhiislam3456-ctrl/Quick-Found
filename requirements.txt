@@ -1,3 +1,3 @@
-git add .
-git commit -m "added requirements"
-git push
+Django>=4.2
+gunicorn
+whitenoise
