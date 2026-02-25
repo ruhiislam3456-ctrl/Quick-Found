@@ -1,2 +1,3 @@
-gunicorn
-whitenoise
+git add .
+git commit -m "added requirements"
+git push
